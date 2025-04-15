@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Explorateur NASA</string>
+    <string name="app_title">Explorateur NASA v1.0</string>
+    <string name="search_nasa_image_text">Rechercher une image NASA</string>
+    <string name="hd_image">Image HD</string>
+    <string name="save_to_favorites">Ajouter aux favoris</string>
+    <string name="image_saved">Image ajoutée aux favoris</string>
+    <string name="error_message_prefix">Erreur</string>
+    <string name="help">Aide</string>
+    <string name="main_help">Utilisez le sélecteur de date pour rechercher une image astronomique de la NASA. Appuyez sur Ajouter aux favoris pour enregistrer l\'image.</string>
+    <string name="yes">OK</string>
+    <string name="no">Non</string>
+    <string name="favorites_menu">Favoris</string>
+    <string name="favorites_title">Favoris</string>
+    <string name="no_favorites">Aucun favori enregistré</string>
+    <string name="delete_confirm_title">Supprimer</string>
+    <string name="delete_confirm_message">Voulez-vous supprimer cette image de vos favoris</string>
+    <string name="favorites_help">Touchez un élément pour voir les détails. Appui long pour supprimer.</string>
+    <string name="image_details">Détails de l\'image</string>
+    <string name="details_help">Cette page affiche l\'image complète et sa description. Utilisez le bouton retour pour revenir.</string>
+    <string name="open_drawer">Ouvrir le menu</string>
+    <string name="close_drawer">Fermer le menu</string>
+    <string name="save_button_text">Enregistrer dans les favoris</string>
+    <string name="favorite_deleted">Favori supprimé</string>
+</resources>
